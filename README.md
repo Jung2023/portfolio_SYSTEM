@@ -3,7 +3,7 @@
 ### 📌 프로젝트 개요
 HTTPS 기반 DB 서버, DNS 및 FTP/NFS/Samba 공유 환경을 포함한 팀 기반 시스템 보안 실습 프로젝트
 
-![Image](https://github.com/user-attachments/assets/6a3b8a60-3f23-4559-b006-188be6246c19)
+![시스템보안-기본](https://github.com/user-attachments/assets/6d93ccca-3312-4e35-b551-c51530bce9c8)
 ---
 
 ### HTTPS + DB
