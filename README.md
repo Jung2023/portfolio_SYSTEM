@@ -1,4 +1,4 @@
-# portfolio_SYSTEM
+## portfolio_SYSTEM
 
 ### 📌 프로젝트 개요
 HTTPS 기반 DB 서버, DNS 및 FTP/NFS/Samba 공유 환경을 포함한 팀 기반 시스템 보안 실습 프로젝트
